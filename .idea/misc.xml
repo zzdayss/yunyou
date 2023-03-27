@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/back.xml" value="0.1" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/btn_bg_selector.xml" value="0.3135" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/edit_text_bg.xml" value="0.1835" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_arrow.xml" value="0.1985" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_feedback.xml" value="0.1985" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_food.xml" value="0.1985" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1835" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_local.xml" value="0.1995" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_logout.xml" value="0.1985" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_map.xml" value="0.231" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_my.xml" value="0.1835" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_place.xml" value="0.1985" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_search.xml" value="0.1835" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/ic_travel.xml" value="0.1985" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/icon_favorite_red.xml" value="0.2025" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/my_location.xml" value="0.196" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/search_edit_bg.xml" value="0.1835" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/search_view_bg.xml" value="0.1835" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/selector.xml" value="0.1225" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/shape.xml" value="0.1835" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/shape1.xml" value="0.2" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/shapelogin.xml" value="0.1955" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/drawable/shapemain.xml" value="0.2755" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_feedback.xml" value="0.3515625" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_input_tips.xml" value="0.33" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_my.xml" value="0.25" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_my1.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_renshu.xml" value="0.3515625" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_serach.xml" value="0.2" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_trip.xml" value="0.25" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_tripadd.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_zhoubian.xml" value="0.33" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/adapter_inputtips.xml" value="0.25" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/adapter_trips.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/address_item.xml" value="0.25" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/list_item.xml" value="0.5" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/my.xml" value="0.1" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/poikeywordsearch_uri.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/right_layout.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/serach_item.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/layout/simple_list_item_1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/93427/AndroidStudioProjects/yunyou/app/src/main/res/menu/menu_navigation.xml" value="0.30923076923076925" />
+        <entry key="..\:/Users/93427/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/93427/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_2.xml" value="0.33" />
+        <entry key="..\:/Users/93427/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_2_single_choice.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/drawable/selector.xml" value="0.16" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_feedback.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_input_tips.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_login.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_my.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_trip.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_tripadd.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/activity_zhoubian.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/adapter_inputtips.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/adapter_trips.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/layout/poikeywordsearch_uri.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/yunyou/app/src/main/res/menu/menu_navigation.xml" value="0.38645833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

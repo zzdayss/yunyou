@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main"
+        android:title="地图"
+        android:icon="@drawable/ic_map" />
+    <item
+        android:id="@+id/zhoubian"
+        android:title="周边"
+        android:icon="@drawable/ic_local" />
+    <item
+        android:id="@+id/my"
+        android:title="我的"
+        android:icon="@drawable/ic_my" />
+
+</menu>
